@@ -1,0 +1,48 @@
+Intel(R) Ethernet NVM Update Tool
+NVMUpdate version 1.39.5.5
+Copyright(C) 2013 - 2022 Intel Corporation.
+
+FS0:\nvmupdate64e.efi -l updater.log -u 
+
+Config file read.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
+Inventory
+[00:001:00:00]: Intel(R) Ethernet Network Adapter X710-4 for OCP NIC 3.0
+	Flash inventory started.
+	Shadow RAM inventory started.
+	Shadow RAM verification started.
+	Shadow RAM verification finished.
+	Shadow RAM is up to date.
+	Flash verification started.
+	Flash verification finished.
+	Flash is up to date.
+	Flash inventory finished.
+	OROM inventory started.
+	OROM verification started.
+	OROM verification finished.
+	OROM is up to date.
+	OROM inventory finished.
+[00:001:01:00]: Intel(R) Ethernet Converged Network Adapter X710
+	Device already inventoried.
+[00:001:02:00]: Intel(R) Ethernet Converged Network Adapter X710
+	Device already inventoried.
+[00:001:03:00]: Intel(R) Ethernet Converged Network Adapter X710
+	Device already inventoried.
+Update
+[00:001:00:00]: Intel(R) Ethernet Network Adapter X710-4 for OCP NIC 3.0
+	Flash: Requested image is same as on the NIC - skipping update.
+	OROM: Requested image is same as on the NIC - skipping update.
+Update security revisions
+[00:001:00:00]: Intel(R) Ethernet Network Adapter X710-4 for OCP NIC 3.0
+	Skipping update minimum security revisions.
+Update VPD with VPD template
+[00:001:00:00]: Intel(R) Ethernet Network Adapter X710-4 for OCP NIC 3.0
+	Skipping VPD update with VPD template.
+Checking update availability for next tool run.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
+Config file doesn't have any OROM components specified for device 'XL710'. Tool will use current device's combo set for the OROM update.
